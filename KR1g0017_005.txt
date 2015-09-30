@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五經稽疑
-#+DATE: 2015-09-23 09:41:04
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:19:03.625045
+#+PROPERTY: ID KR1g0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1g0017_WYG_005-1a>¶
 欽定四庫全書¶
 　五經稽疑卷五　　　　明　朱睦㮮　撰¶
@@ -344,4 +346,3 @@
 　¶
 　¶
 　五經稽疑卷五¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五經稽疑
-#+DATE: 2015-09-23 09:41:04
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:19:03.553958
+#+PROPERTY: ID KR1g0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1g0017_WYG_001-1a>¶
 欽定四庫全書¶
 　五經稽疑卷一　　　　明　朱睦㮮　撰¶
@@ -560,4 +562,3 @@
 西來叶黎與時怡俱是一韻經文多叶故知虞氏之説¶
 不謬也¶
 　五經稽疑卷一¶
-
